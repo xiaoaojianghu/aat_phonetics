@@ -23,7 +23,6 @@ function engageKey(){
 	else
 		return;
 	var fileName = './' + pressedKey + '.mp3';
-	console.log(fileName);
 	new Audio(fileName).play();
 };
 
