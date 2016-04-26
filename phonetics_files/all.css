@@ -1,0 +1,78 @@
+﻿A#keyboardLink {
+	BORDER-RIGHT: black 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: black 1px solid; PADDING-LEFT: 3px; Z-INDEX: 200; RIGHT: 0px; PADDING-BOTTOM: 3px; BORDER-LEFT: black 1px solid; COLOR: black; PADDING-TOP: 3px; BORDER-BOTTOM: black 1px solid; POSITION: fixed; TOP: 0px; BACKGROUND-COLOR: white; TEXT-DECORATION: none
+}
+A#keyboardLink:hover {
+	COLOR: black; BACKGROUND-COLOR: yellow
+}
+#chartIntro {
+	DISPLAY: none
+}
+BODY {
+	FONT-FAMILY: "Charis SIL", "Doulos SIL", Gentium, "Arial Unicode MS","Lucida Sans Unicode", Arial, Serif
+}
+H1#title {
+	FONT-SIZE: 14pt; FONT-FAMILY: "宋体"; MARGIN-BOTTOM: 2px; TEXT-ALIGN: center
+}
+TH {
+	FONT-WEIGHT: normal; TEXT-ALIGN: left
+}
+H2 {
+	FONT-SIZE: 13pt; MARGIN-BOTTOM: 3px
+}
+TD {
+	FONT-SIZE: 16pt
+}
+TABLE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-COLLAPSE: collapse; empty-cells: show; border-spacing: 0px
+}
+#yinbiao {
+	MARGIN-BOTTOM: 1em
+}
+#yinbiao H2 {
+	MARGIN-TOP: 5px
+}
+#yinbiao TABLE {
+	WIDTH: 100%
+}
+#yinbiao TABLE CAPTION {
+	caption-side: bottom
+}
+#yinbiao TABLE {
+	BORDER-RIGHT: #777 1px solid; BORDER-TOP: #777 1px solid; VERTICAL-ALIGN: middle; BORDER-LEFT: #777 1px solid; BORDER-BOTTOM: #777 1px solid
+}
+#yinbiao TD {
+	BORDER-RIGHT: #777 1px solid; BORDER-TOP: #777 1px solid; VERTICAL-ALIGN: middle; BORDER-LEFT: #777 1px solid; BORDER-BOTTOM: #777 1px solid
+}
+#yinbiao TH {
+	BORDER-RIGHT: #777 1px solid; BORDER-TOP: #777 1px solid; VERTICAL-ALIGN: middle; BORDER-LEFT: #777 1px solid; BORDER-BOTTOM: #777 1px solid
+}
+#yinbiao P {
+	MARGIN-TOP: 0.25em; TEXT-ALIGN: center
+}
+#yinbiao TH {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-SIZE: 8pt; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; TEXT-ALIGN: center
+}
+#yinbiao TH.place {
+	WIDTH: 8%
+}
+#yinbiao TH.manner {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 12pt; PADDING-BOTTOM: 0px; WIDTH: 10%; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+#yinbiao TH.manner2 {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 12pt; PADDING-BOTTOM: 0px; WIDTH: 8%; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+#yinbiao TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 16pt; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; TEXT-ALIGN: center
+}
+#yinbiao TD .yitem {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 100%; PADDING-TOP: 0px
+}
+DIV#footer {
+	CLEAR: both; FONT-FAMILY: "Arial Unicode MS", "Lucida Sans Unicode", Arial, Helvetica, Sans-Serif
+}
+DIV#footer P {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0.5em
+}
+DIV#adsense {
+	CLEAR: both; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; MARGIN: 5px 0px; COLOR: black; PADDING-TOP: 5px; TEXT-ALIGN: center
+}

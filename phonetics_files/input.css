@@ -1,0 +1,42 @@
+BODY {
+	FONT-FAMILY: "Charis SIL", "Doulos SIL", Gentium, "Arial Unicode MS","Lucida Sans Unicode", Arial, Serif
+}
+TEXTAREA {
+	FONT-FAMILY: "Charis SIL", "Doulos SIL", Gentium, "Arial Unicode MS","Lucida Sans Unicode", Arial, Serif
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+LABEL {
+	CURSOR: pointer
+}
+TEXTAREA#inputField {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 15pt; BORDER-BOTTOM-WIDTH: 0px; WIDTH: 100%; BORDER-RIGHT-WIDTH: 0px
+}
+INPUT#clearButton {
+	VERTICAL-ALIGN: text-bottom
+}
+DIV#toolbar {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; BORDER-BOTTOM: gray 2px solid; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #ddd
+}
+SPAN#insertEntitiesBox {
+	BORDER-RIGHT: gray 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: gray 1px solid; BORDER-LEFT: gray 1px solid; MARGIN-RIGHT: 3px; BORDER-BOTTOM: gray 1px solid; BACKGROUND-COLOR: #cccccc
+}
+SPAN#symbolsUsed A {
+	PADDING-RIGHT: 1ex; PADDING-LEFT: 1ex; COLOR: #000088; TEXT-DECORATION: none
+}
+SPAN#symbolsUsed A:hover {
+	COLOR: red; BACKGROUND-COLOR: white
+}
+SPAN#instructions {
+	FONT-STYLE: italic
+}
+SPAN#symbolsUsed {
+	DISPLAY: none
+}
+SPAN#symbolsUsedLabel {
+	DISPLAY: none
+}
